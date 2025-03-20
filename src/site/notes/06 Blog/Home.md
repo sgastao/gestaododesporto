@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06 Blog/Home/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Desporto 6.0/Home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Desporto e Gestão
